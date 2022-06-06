@@ -1,0 +1,12 @@
+#header-div{
+    height: 70px;
+    background-color: #090b13;
+}
+
+.header-logo-image{
+    width: 80px;
+}
+
+#header-nav-menu{
+    width: fit-content;
+}
